@@ -1,3 +1,79 @@
+
+ - authors: C. Peng, Y. Zhao, D. Liu, Z. He, Y. Zhou and X. Cao
+  title: Security-aware Off-site Distributed Pairwise Protection for MoE-based Networks
+  journal: IEEE Internet of Things Journal
+  abbvr: JIOT
+  year: 2025
+ - authors: Y. Wu, D. Zheng, J. Ren, H. Xing, W. Tang and X. Cao 
+  title: A Runtime- and Cost-Efficient Approach of Deploying Mixture-of-Experts in Edge Networks
+  conf: IEEE Global Communications Conference
+  abbvr: GLOBECOM
+  year:  2025
+ - authors: W. Zeng, D. Zheng, H. Xing, W. Wei, C. Wang and X. Cao 
+  title: Cost-Efficient Knowledge Distillation-enabled Student Models Placement in Edge Networks
+  conf: IEEE Global Communications Conference
+  abbvr: GLOBECOM
+  year:  2025
+- authors: C. Wang, D. Zheng, Y. Zhong, H. Xu and X. Cao 
+  title: Heuristic-guided Migration-Agent-Based DRL for Compressed Model Placement in Edge Networks
+  conf: IEEE Global Communications Conference
+  abbvr: GLOBECOM
+  year:  2025
+- authors: H. Jin, D. Zheng, H. Xing and X. Cao
+  title: Asymmetric Protection-based S-SFC Deployment for LLM-Inference-enabled Networks
+  conf: IEEE 11th International Conference on Computer and Communications
+  abbvr: ICCC
+  year: 2025
+- authors: D. Zheng, C. Wang, H. Xu, W. Tang, Y. Zhong and X. Cao
+  title: A Provably Efficient In-Network Computing Services Deployment Approach for Security Burst
+  journal: Elsevier Computer Networks 
+  abbvr:  Comnet
+  year: 2025
+- authors: Y. Zhang, D. Zheng, H. Xing, H. Xu, C. Peng, C. Wang and X. Cao
+  title: Towards Profits Optimization in LLM Inference Model Deployment at the Network Edge 
+  conf: IEEE International Performance, Computing, and Communications Conference
+  abbvr: IPCCC
+  year: 2025
+- authors: Y. Li, D. Zheng, H. Fang, H. Xing, X. Chen and X. Cao
+  title: Towards Prompt Chain Deployment in Zero Trust-enabled Compute First Networks
+  journal: IEEE Transactions on Consumer Electronics 
+  abbvr: TCE 
+  year: 2025
+- authors: C. Wang, D. Zheng, H. Xing, W. Tang, H. Xu, Y. Zhong and X. Cao
+  title: NFV-based Security Estimation and Classification Approaches for AIGC-enabled Edge Networks
+  journal: IEEE Transactions on Network Science and Engineering
+  abbvr: TNSE
+  year: 2025
+- authors: J. Ren, C. Wang, Y. Zhong, S. Cao, D. Zheng and X. Cao
+  title: Towards Expert Models Deployment Cost Optimization in Edge Computing Networks
+  conf: IEEE International Conference on Communications
+  abbvr: ICC
+  year: 2025
+- authors: Y. Li, J. Ren, H. Xing, C. Peng, D. Zheng and X. Cao
+  title: Towards Prompt Chain Deployment Cost Optimization in Zero Trust-enabled Networks
+  conf: IEEE International Conference on Communications
+  abbvr: ICC
+  year: 2025
+- authors: Y. Wu, D. Zheng, J. Ren, J. Wang, C. Wang, C. Peng and X. Cao
+  title: A Cost-and-Time-Efficient Approach of Deploying Mixture of Expert Models
+  conf: 8th World Conference on Computing and Communication Technologies
+  abbvr: WCCCT
+  year: 2025
+- authors: W. Zeng, D. Zheng, H. Xing, X. Chen, J. Ren, Y. Zhang, C. Peng and X. Cao
+  title: A Cost-Optimization Approach of Placing Student Models in Edge Networks
+  conf: 8th World Conference on Computing and Communication Technologies
+  abbvr: WCCCT
+  year: 2025
+- authors: Y. Zhao, G. Duan, D. Zheng, X. Cao and C. Peng
+  title: Distributed Pairwise Protection for Security-Aware Mission Chains in UAV Networks
+  conf: 8th World Conference on Computing and Communication Technologies
+  abbvr: WCCCT
+  year: 2025
+- authors: D. Zheng and X. Cao
+  title: Provably Efficient Service Function Chain Embedding and Protection in Edge Networks
+  journal: IEEE/ACM Transactions on Networking
+  abbvr: TON
+  year: 2025
 - authors: C. Wang, D. Zheng, X. Liu, W. Tang, H. Xu and X. Cao
   title: Towards Cost Optimization in Security-Aware Service Function Chaining and Embedding over Multi-Vendor Edge Networks
   journal: Elsevier Computer Networks
@@ -12,17 +88,12 @@
   title: cost-provable solution for reliable in-network computing-enabled services deployment
   journal: Elsevier Computer Networks
   abbvr: Comnet
-  year: 2025 
+  year: 2025
 - authors: D. Zheng, H. Xiang, L. Feng and X. Cao
   title: Provably efficient security-aware service function tree composing and embedding in multi-vendor networks
   journal: Elsevier Computer Networks
   abbvr: Comnet
   year: 2024  
-- authors: D. Zheng and X. Cao
-  title: Provably Efficient Service Function Chain Embedding and Protection in Edge Networks
-  journal: IEEE/ACM Transactions on Networking
-  abbvr: TON
-  year: 2024
 - authors: D. Zheng, H. Fang, S. Cao, Y. Zhong and X. Cao
   title: Towards Resources Optimization in Deploying Service Function Chains with Shared Protection
   journal: Elsevier Computer Networks
