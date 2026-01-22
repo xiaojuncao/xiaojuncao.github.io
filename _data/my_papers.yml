@@ -13,12 +13,12 @@
   title: Cost-Efficient Knowledge Distillation-enabled Student Models Placement in Edge Networks
   conf: IEEE Global Communications Conference
   abbvr: GLOBECOM
-  year:  2025
+  year: 2025
 - authors: C. Wang, D. Zheng, Y. Zhong, H. Xu and X. Cao 
   title: Heuristic-guided Migration-Agent-Based DRL for Compressed Model Placement in Edge Networks
   conf: IEEE Global Communications Conference
   abbvr: GLOBECOM
-  year:  2025
+  year: 2025
 - authors: H. Jin, D. Zheng, H. Xing and X. Cao
   title: Asymmetric Protection-based S-SFC Deployment for LLM-Inference-enabled Networks
   conf: IEEE 11th International Conference on Computer and Communications
@@ -27,7 +27,7 @@
 - authors: D. Zheng, C. Wang, H. Xu, W. Tang, Y. Zhong and X. Cao
   title: A Provably Efficient In-Network Computing Services Deployment Approach for Security Burst
   journal: Elsevier Computer Networks 
-  abbvr:  Comnet
+  abbvr: Comnet
   year: 2025
 - authors: Y. Zhang, D. Zheng, H. Xing, H. Xu, C. Peng, C. Wang and X. Cao
   title: Towards Profits Optimization in LLM Inference Model Deployment at the Network Edge 
@@ -37,7 +37,7 @@
 - authors: Y. Li, D. Zheng, H. Fang, H. Xing, X. Chen and X. Cao
   title: Towards Prompt Chain Deployment in Zero Trust-enabled Compute First Networks
   journal: IEEE Transactions on Consumer Electronics 
-  abbvr: TCE 
+  abbvr: TCE
   year: 2025
 - authors: C. Wang, D. Zheng, H. Xing, W. Tang, H. Xu, Y. Zhong and X. Cao
   title: NFV-based Security Estimation and Classification Approaches for AIGC-enabled Edge Networks
